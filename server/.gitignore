@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-.config
+.config/config.env
 
 
